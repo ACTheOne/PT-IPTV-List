@@ -1,18 +1,18 @@
-#EXTM3U
+#EXTM3U http-user-agent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 InternetTV safari/533.3" http-cookie="mac=00:1a:79:bd:03:f9"
 #EXTINF:-1 tvg-id="680156" tvg-name="|PT| RTP 1 FHD" group-title="PORTUGAL  | TV",|PT| RTP 1 FHD
-http://f.6350.top:80/ch/680156_
+http://localhost/ch/680156_
 #EXTINF:-1 tvg-id="680157" tvg-name="|PT| RTP 1 HD" group-title="PORTUGAL  | TV",|PT| RTP 1 HD
-http://f.6350.top:80/ch/680157_
+http://localhost/ch/680157_
 #EXTINF:-1 tvg-id="1221178" tvg-name="|PT| RTP 1 SD" group-title="PORTUGAL  | TV",|PT| RTP 1 SD
-http://f.6350.top:80/ch/1221178_
+http://localhost/ch/1221178_
 #EXTINF:-1 tvg-id="680158" tvg-name="|PT| RTP 2 FHD" group-title="PORTUGAL  | TV",|PT| RTP 2 FHD
-http://f.6350.top:80/ch/680158_
+http://localhost/ch/680158_
 #EXTINF:-1 tvg-id="680159" tvg-name="|PT| RTP 2 HD" group-title="PORTUGAL  | TV",|PT| RTP 2 HD
-http://f.6350.top:80/ch/680159_
+http://localhost/ch/680159_
 #EXTINF:-1 tvg-id="1221179" tvg-name="|PT| RTP 2 SD" group-title="PORTUGAL  | TV",|PT| RTP 2 SD
-http://f.6350.top:80/ch/1221179_
+http://localhost/ch/1221179_
 #EXTINF:-1 tvg-id="680161" tvg-name="|PT| SIC FHD" group-title="PORTUGAL  | TV",|PT| SIC FHD
-http://f.6350.top:80/ch/680161_
+http://localhost/ch/680161_
 #EXTINF:-1 tvg-id="680160" tvg-name="|PT| SIC HD" group-title="PORTUGAL  | TV",|PT| SIC HD
 http://localhost/ch/680160_
 #EXTINF:-1 tvg-id="1221180" tvg-name="|PT| SIC SD" group-title="PORTUGAL  | TV",|PT| SIC SD
